@@ -1,0 +1,24 @@
+{
+  "name": "riatesting",
+  "version": "1.0.0",
+  "description": "Selenium JavaScript automation tests for Ria Money Transfer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nivethaa26/RiaTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nivethaa26/RiaTesting/issues"
+  },
+  "homepage": "https://github.com/nivethaa26/RiaTesting#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.52.0"
+  }
+}
